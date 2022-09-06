@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/footageone/angular-material-addons.git"
+    "url": "https://github.com/saksaikot/mat-right-sheet.git"
   },
   "dependencies": {
     "tslib": "^2.0.0"

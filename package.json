@@ -1,0 +1,58 @@
+{
+  "name": "mat-right-sheet",
+  "version": "4.0.3-5",
+  "keywords": [
+    "angular",
+    "ng",
+    "material",
+    "material design",
+    "angular material",
+    "components",
+    "sheet",
+    "ng2",
+    "angular2",
+    "web components"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0",
+    "@angular/cdk": "^14.2.0",
+    "@angular/material": "^14.2.0"
+  },
+  "homepage": "https://github.com/footageone/angular-material-addons",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/footageone/angular-material-addons.git"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "exports": {
+    ".": {
+      "sass": "./_right-sheet-theme.scss",
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/mat-right-sheet.mjs",
+      "es2020": "./fesm2020/mat-right-sheet.mjs",
+      "es2015": "./fesm2015/mat-right-sheet.mjs",
+      "node": "./fesm2015/mat-right-sheet.mjs",
+      "default": "./fesm2020/mat-right-sheet.mjs"
+    },
+    "./theming": {
+      "sass": "./_right-sheet-theme.scss"
+    },
+    "./right-sheet-theme": {
+      "sass": "./_right-sheet-theme.scss"
+    },
+    "./package.json": {
+      "default": "./package.json"
+    }
+  },
+  "module": "fesm2015/mat-right-sheet.mjs",
+  "es2020": "fesm2020/mat-right-sheet.mjs",
+  "esm2020": "esm2020/mat-right-sheet.mjs",
+  "fesm2020": "fesm2020/mat-right-sheet.mjs",
+  "fesm2015": "fesm2015/mat-right-sheet.mjs",
+  "typings": "index.d.ts",
+  "sideEffects": false
+}

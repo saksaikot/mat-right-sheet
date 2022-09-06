@@ -1,0 +1,14 @@
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+export * from './lib/right-sheet.module';
+export * from './lib/right-sheet';
+export * from './lib/right-sheet.config';
+export * from './lib/right-sheet.container';
+export * from './lib/right-sheet.animations';
+export * from './lib/right-sheet.ref';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3JpZ2h0LXNoZWV0L3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7R0FNRztBQUVILGNBQWMsMEJBQTBCLENBQUM7QUFDekMsY0FBYyxtQkFBbUIsQ0FBQztBQUNsQyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsNkJBQTZCLENBQUM7QUFDNUMsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLHVCQUF1QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXHJcbiAqIEBsaWNlbnNlXHJcbiAqIENvcHlyaWdodCBHb29nbGUgTExDIEFsbCBSaWdodHMgUmVzZXJ2ZWQuXHJcbiAqXHJcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIGJ5IGFuIE1JVC1zdHlsZSBsaWNlbnNlIHRoYXQgY2FuIGJlXHJcbiAqIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cHM6Ly9hbmd1bGFyLmlvL2xpY2Vuc2VcclxuICovXHJcblxyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9yaWdodC1zaGVldC5tb2R1bGUnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9yaWdodC1zaGVldCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3JpZ2h0LXNoZWV0LmNvbmZpZyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3JpZ2h0LXNoZWV0LmNvbnRhaW5lcic7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3JpZ2h0LXNoZWV0LmFuaW1hdGlvbnMnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9yaWdodC1zaGVldC5yZWYnO1xyXG4iXX0=
